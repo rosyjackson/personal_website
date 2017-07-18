@@ -1,0 +1,51 @@
+h1 {
+    color: white;
+    font-family: georgia;
+    
+}
+
+h2 {
+    color: #FE0101;
+    font-family: Courier
+}
+
+h3 {
+    color: #FEB453;
+    font-family: Courier
+}
+
+h4 {
+    color: #FEFE75;
+    font-family: Courier
+}
+
+h5 {
+    color: #75FE75;
+    font-family: Courier
+}
+
+h6 {
+    color: #7582FE;
+    font-family: Courier
+}
+
+p {
+    color: white;
+    font-family: Courier
+}
+
+body {
+    background: #B1E9FA;
+}
+
+img {background-color: lightgrey;
+    width: 300px;
+    border: 25px solid black;
+    padding: 25px;
+    margin: 25px;
+    
+    
+}
+
+
+
